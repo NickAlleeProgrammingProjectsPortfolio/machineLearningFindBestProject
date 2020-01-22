@@ -1,5 +1,5 @@
 # machineLearningFindBestProject
- algorithm to find the best set of xes and ys to use for a given classifier.
+ algorithm to find the best set of xes and ys to use for a given linear regression or SVM classifier.
 
  8/8/19
  This repo is a project I have been working on since I started the machine learning class taught by Dr. Hoot at nwmsu.
@@ -12,3 +12,5 @@
  Right now only the linear classifer and svm classifer work. I hope to implement other classifiers over the school year that is starting.
 
  
+ 1/22/2020
+ As of now I am not focused on this work as I have started my next semester. This concept is currently only working for very specific conditions but it helped me out at the time I was making it. I hope to one day return to this and make it better.
